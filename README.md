@@ -23,7 +23,7 @@ Instalar dlib:
 
 Instalar OpenCV:
 ```bash
-    pip install opencv-python
+    pip install opencv-contrib-python
 ```
 
 ### Curiosidades
