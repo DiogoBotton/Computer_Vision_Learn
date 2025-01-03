@@ -400,3 +400,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 Analise_e_Classificação_de_Faces_OpenCV/gt_db
+Analise_e_Classificação_de_Faces_OpenCV/classifiers_dlib
