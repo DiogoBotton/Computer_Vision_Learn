@@ -401,5 +401,5 @@ FodyWeavers.xsd
 
 Analise_e_Classificação_de_Faces_OpenCV/gt_db
 Analise_e_Classificação_de_Faces_OpenCV/classifiers_dlib
-Segmentação_de_Imagens/Segmentação_de_Instâncias/Mask_RCNN-TF2
-Segmentação_de_Imagens/Segmentação_de_Instâncias/balloon
+Segmentacao_de_Imagens/Segmentacao_de_Instancias/Mask_RCNN-TF2
+Segmentacao_de_Imagens/Segmentacao_de_Instancias/balloon
