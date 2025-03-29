@@ -407,3 +407,4 @@ Segmentacao_de_Imagens/Segmentacao_de_Instancias/mask_rcnn_balloon_0023.h5
 Segmentacao_de_Imagens/Segmentacao_Semantica/data
 Segmentacao_de_Imagens/Segmentacao_Semantica/data-science-bowl-2018.zip
 Segmentacao_de_Imagens/Segmentacao_Semantica/modelo_unet.keras
+Segmentacao_de_Imagens/SAM/sam_vit_h_4b8939.pth
